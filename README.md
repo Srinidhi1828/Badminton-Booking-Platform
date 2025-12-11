@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Badminton Booking Platform:
 
 The Badminton Booking Platform is a modern web application designed to make court reservations simple, fast, and user-friendly. It allows players to book badminton courts, rent equipment, schedule training sessions with professional coaches, and view all their upcoming or past bookings in one place. Built with a clean interface and smooth user flow, the platform focuses on delivering a seamless digital experience for both casual users and regular players.
@@ -79,3 +80,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Badminton-Booking-Platform
+>>>>>>> c4b8786f9fb3c5b716e68cfc8515466432317ebc
